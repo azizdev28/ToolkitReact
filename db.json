@@ -1,0 +1,81 @@
+{
+  "students": [
+    {
+      "id": "55e3",
+      "firstName": "Sarvar",
+      "lastName": "Abdukarimov",
+      "age": "19",
+      "group": "React N50",
+      "teacher": "Temur Shernazarov",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    },
+    {
+      "id": "53e5",
+      "firstName": "Sanjar",
+      "lastName": "Abduhakimov",
+      "age": "19",
+      "group": "React N45",
+      "teacher": "Temur Shernazarov",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    },
+    {
+      "id": "55e9",
+      "firstName": "Damir",
+      "lastName": "Ahrorov",
+      "age": "19",
+      "group": "React N58",
+      "teacher": "Temur Shernazarov",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    },
+    {
+      "id": "5555",
+      "firstName": "Shaxboz",
+      "lastName": "O'senboyev",
+      "age": "19",
+      "group": "React N45",
+      "teacher": "Temur Shernazarov",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    },
+    {
+      "id": "55e5",
+      "firstName": "Abror",
+      "lastName": "Abduhakimov",
+      "age": "22",
+      "group": "React N50",
+      "teacher": "Temur Shernazarov",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    },
+    {
+      "id": "55e5",
+      "firstName": "Otabel",
+      "lastName": "Majitov",
+      "age": "19",
+      "group": "React N32",
+      "teacher": "Temur Shernazarov",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "0b46",
+      "firstName": "Azizbek",
+      "lastName": "Abduhakimov",
+      "age": "19",
+      "group": "Junior"
+    },
+    {
+      "id": "fca5",
+      "firstName": "Sultunqul",
+      "lastName": "Norqulov",
+      "age": "25",
+      "group": "Middle"
+    },
+    {
+      "id": "8a55",
+      "firstName": "Jamshid",
+      "lastName": "Husanov",
+      "age": "21",
+      "group": "Junior"
+    }
+  ]
+}
